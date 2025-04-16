@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Playlist Search",
+    "version": "1.0",
+    "description": "Search and filter your playlists on YouTube.",
+    "permissions": ["scripting"],
+    "content_scripts": [
+    {
+        "matches": ["*://www.youtube.com/*"],
+        "js": ["content.js"],
+        "css": ["style.css"]
+    }
+    ]
+}
