@@ -5,5 +5,5 @@ Enable Developer Mode (top right)
 
 Click Load unpacked
 
-Select the youtube-playlist-search folder
+Select the youtube-playlist-search folder within YouTube-Playlist-Search-main/
 
