@@ -1,4 +1,5 @@
 How to Load the Extension
+
 Go to chrome://extensions/
 
 Enable Developer Mode (top right)
